@@ -10,7 +10,7 @@ body{
     line-height: 1.6;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
     margin: 40px 0 60px 0;
@@ -29,8 +29,8 @@ form{
     border: none;
     border-radius: 5px;
     font-size: 18px;
-    box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
-    color: #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: black;
     justify-content: center;
 }
 #search-btn{
@@ -38,7 +38,7 @@ form{
     border: none;
     font-size: 18px;
     background-color: rgb(20, 77, 20);
-    color: white;
+    color:white;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2); 
     border-radius: 5px; 
     margin-left: 10px;
@@ -47,7 +47,7 @@ form{
 .search-results{
     display: flex;
     justify-content: space-between;
-    max-width: 1200px;
+    max-width: 1250px;
     margin: 0 auto;
     flex-wrap: wrap;
 }
